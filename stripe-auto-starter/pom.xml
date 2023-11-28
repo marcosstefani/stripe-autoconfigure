@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>com.elara</groupId>
-            <artifactId>stripe-autoconfigure</artifactId>
+            <artifactId>stripe-auto-configure</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
