@@ -28,7 +28,7 @@ The `StripeAutoConfiguration` class provides auto-configuration to seamlessly in
     <version>${stripe-auto-starter.version}</version>
 </dependency>
 ```
-***Note:*** get the last version from maven repository
+***Note:*** get the last version from maven repository (TODO)
 
 ```application.properties
 stripe.api-key=sk_test_your_generated_sk
