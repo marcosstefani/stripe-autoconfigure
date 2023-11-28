@@ -1,5 +1,0 @@
-META-INF/spring-configuration-metadata.json
-com/elara/StripeAutoConfiguration.class
-com/elara/StripeProperties.class
-com/elara/StripeProperties$ProxyCredential.class
-com/elara/StripeProperties$Address.class
