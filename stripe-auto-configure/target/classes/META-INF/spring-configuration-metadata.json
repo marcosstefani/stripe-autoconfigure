@@ -1,0 +1,77 @@
+{
+  "groups": [
+    {
+      "name": "stripe",
+      "type": "com.elara.StripeProperties",
+      "sourceType": "com.elara.StripeProperties"
+    },
+    {
+      "name": "stripe.address",
+      "type": "com.elara.StripeProperties$Address",
+      "sourceType": "com.elara.StripeProperties",
+      "sourceMethod": "getAddress()"
+    },
+    {
+      "name": "stripe.proxy-credential",
+      "type": "com.elara.StripeProperties$ProxyCredential",
+      "sourceType": "com.elara.StripeProperties",
+      "sourceMethod": "getProxyCredential()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "stripe.address.api-base",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties$Address"
+    },
+    {
+      "name": "stripe.address.connect-base",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties$Address"
+    },
+    {
+      "name": "stripe.address.files-base",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties$Address"
+    },
+    {
+      "name": "stripe.api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties"
+    },
+    {
+      "name": "stripe.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties"
+    },
+    {
+      "name": "stripe.connect-timeout-in-seconds",
+      "type": "java.lang.Integer",
+      "sourceType": "com.elara.StripeProperties",
+      "defaultValue": 30
+    },
+    {
+      "name": "stripe.max-network-retries",
+      "type": "java.lang.Integer",
+      "sourceType": "com.elara.StripeProperties",
+      "defaultValue": 2
+    },
+    {
+      "name": "stripe.proxy-credential.password",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties$ProxyCredential"
+    },
+    {
+      "name": "stripe.proxy-credential.username",
+      "type": "java.lang.String",
+      "sourceType": "com.elara.StripeProperties$ProxyCredential"
+    },
+    {
+      "name": "stripe.read-timeout-in-seconds",
+      "type": "java.lang.Integer",
+      "sourceType": "com.elara.StripeProperties",
+      "defaultValue": 80
+    }
+  ],
+  "hints": []
+}
