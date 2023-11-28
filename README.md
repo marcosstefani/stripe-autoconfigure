@@ -2,8 +2,11 @@
 
 The `StripeAutoConfiguration` class provides auto-configuration to seamlessly integrate the [Stripe Java library](https://github.com/stripe/stripe-java) into a Spring Boot application. This configuration simplifies the setup of the `StripeClient` bean, allowing you to customize its behavior through application properties.
 
-## Configuration Properties
+## Preconditions
+- Java 17
+- Spring Boot 3
 
+## Configuration Properties
 | Property                           | Type      | Description                                                             |
 |------------------------------------|-----------|-------------------------------------------------------------------------|
 | `stripe.api-key`                   | String    | **Required.** The Stripe API key used for authentication.               |
