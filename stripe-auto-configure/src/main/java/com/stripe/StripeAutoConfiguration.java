@@ -1,6 +1,5 @@
-package com.elara;
+package com.stripe;
 
-import com.stripe.StripeClient;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;

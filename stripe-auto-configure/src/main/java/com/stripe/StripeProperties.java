@@ -1,4 +1,4 @@
-package com.elara;
+package com.stripe;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

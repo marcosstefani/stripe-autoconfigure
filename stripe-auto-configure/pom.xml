@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <parent>
-        <groupId>com.elara</groupId>
+        <groupId>com.stripe</groupId>
         <artifactId>stripe-autoconfigure</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>

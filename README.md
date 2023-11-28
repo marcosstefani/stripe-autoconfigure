@@ -20,7 +20,7 @@ The `StripeAutoConfiguration` class provides auto-configuration to seamlessly in
 ## Example of use
 ```pom.xml
 <dependency>
-    <groupId>com.elara</groupId>
+    <groupId>com.stripe</groupId>
     <artifactId>stripe-auto-starter</artifactId>
     <version>${stripe-auto-starter.version}</version>
 </dependency>
