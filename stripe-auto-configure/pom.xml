@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <parent>
-        <groupId>com.stripe</groupId>
+        <groupId>com.marcosstefani</groupId>
         <artifactId>stripe-autoconfigure</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>

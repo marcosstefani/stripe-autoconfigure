@@ -23,7 +23,7 @@ The `StripeAutoConfiguration` class provides auto-configuration to seamlessly in
 ## Example of use
 ```pom.xml
 <dependency>
-    <groupId>com.stripe</groupId>
+    <groupId>com.marcosstefani</groupId>
     <artifactId>stripe-auto-starter</artifactId>
     <version>${stripe-auto-starter.version}</version>
 </dependency>

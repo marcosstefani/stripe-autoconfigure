@@ -1,4 +1,4 @@
-package com.stripe;
+package com.marcosstefani;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
