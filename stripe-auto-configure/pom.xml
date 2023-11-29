@@ -28,9 +28,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.marcosstefani</groupId>
+            <groupId>com.stripe</groupId>
             <artifactId>stripe-java</artifactId>
-            <version>${stripe-java.version}</version>
+            <version>24.5.0</version>
         </dependency>
     </dependencies>
 </project>
